@@ -1,0 +1,9 @@
+[
+  {"scene": "FloorPlan1",   "goal": "find the television"},
+  {"scene": "FloorPlan1",   "goal": "navigate to the sofa"},
+  {"scene": "FloorPlan2",   "goal": "find the laptop"},
+  {"scene": "FloorPlan201", "goal": "find the refrigerator"},
+  {"scene": "FloorPlan201", "goal": "navigate to the sink"},
+  {"scene": "FloorPlan301", "goal": "find the toilet"},
+  {"scene": "FloorPlan401", "goal": "find the bed"}
+]
