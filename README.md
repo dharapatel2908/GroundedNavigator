@@ -1,4 +1,4 @@
-# NavAgent
+# GroundedNavigator
 
 Fully local, open-source LLM-guided autonomous navigation agent for indoor environments.
 No API keys. No cloud calls. Runs on your existing hardware.
@@ -157,7 +157,7 @@ Edit the model constants at the top of each file:
 
 ## Demo
 
-[Watch the demo on LinkedIn]((https://www.linkedin.com/feed/update/urn:li:activity:7466208647279308800/)
+[Watch the demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7466208647279308800/)
 
 ---
 
