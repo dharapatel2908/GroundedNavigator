@@ -157,7 +157,7 @@ Edit the model constants at the top of each file:
 
 ## Demo
 
-[Watch the demo on LinkedIn](https://linkedin.com/in/dhara-patel)
+[Watch the demo on LinkedIn]([https://linkedin.com/in/dhara-patel](https://www.linkedin.com/feed/update/urn:li:activity:7466208647279308800/))
 
 ---
 
